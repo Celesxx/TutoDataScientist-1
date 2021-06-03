@@ -1,0 +1,10 @@
+python=3.7 
+conda-forge 
+tensorflow
+ipykernel
+pandas 
+jupyter 
+seaborn
+scikit-learn 
+keras
+seaborn
